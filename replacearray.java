@@ -29,3 +29,23 @@ class replacearray
 		System.out.println();
 	}
 }
+/*
+Output
+Enter how many elements in the array:
+5
+Enter the array:
+1
+2
+3
+4
+5
+Enter the elements in the array to be replaced:
+4
+Enter the element to replace the existing element:
+6
+1 
+2
+3
+6
+5
+*/
