@@ -23,3 +23,14 @@ class stringreplace
 				System.out.println(a);
 	}
 }
+/*
+Output
+Enter the string
+jprogram
+Enter the character to be replaced: 
+j
+Enter the character to replace the existing character: 
+c
+String after replacing : 
+cprogram
+*/
