@@ -26,3 +26,11 @@ class stringsearch
 
 	}
 }
+/*
+Output
+Enter the string
+javaprogram
+Enter the character to be searched
+j
+element j is present at 1
+*/
