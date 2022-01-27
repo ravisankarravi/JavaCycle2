@@ -20,3 +20,28 @@ class transpose
 				System.out.println(a[j][i]);
 	}
 }
+/*
+Output
+Enter number of columns:
+3
+Enter array elements:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Transpose matrix is:
+1
+4
+7
+2
+5
+8
+3
+6
+9
+*/
