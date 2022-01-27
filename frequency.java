@@ -20,3 +20,9 @@ class frequency
 		System.out.println("The occurence of "+x+" is "+ count);
 	}
 }
+/*
+Output
+Enter the String to check the Frequency: javaprogram
+Enter the element whose frequency to be checked: a
+The occurence of a is 3
+*/
