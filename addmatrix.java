@@ -40,3 +40,29 @@ class addmatrix
 		}
 	}
 }
+/*
+Output
+Enter number of rows in matrix A:
+2
+Enter number of columns in matrix A:
+2
+Enter array elements:
+1
+2
+3
+4
+Enter number of rows in matrix B:
+2
+Enter number of columns in matrix B:
+2
+Enter array elements:
+1
+2
+3
+4
+New matrix is:
+2
+4
+6
+8
+*/
