@@ -1,4 +1,4 @@
-import java .util.*;
+import java.util.*;
 	class sumarray{
 		public static void main(String args[])
 		{
@@ -21,3 +21,15 @@ import java .util.*;
 		
 		}
 	}
+/*
+Output
+Enter the number of elements of array
+5
+Enter the elements of the array
+1 
+2
+3
+4
+5
+Sum of all the elements of an array:15
+*/
