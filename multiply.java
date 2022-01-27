@@ -49,3 +49,29 @@ class multiply
 		}
 	}
 }
+/*
+Output
+Enter number of rows in matrix A:
+2
+Enter number of columns in matrix A:
+2
+Enter number of rows in matrix B:
+2
+Enter number of columns in matrix B:
+2
+Enter elements in matrix A:
+1
+2
+3
+4
+Enter elements in matrix B:
+1 
+2
+3
+4
+New matrix is:
+7
+10
+15
+22
+*/
