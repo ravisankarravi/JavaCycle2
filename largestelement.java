@@ -28,3 +28,21 @@ class largestelement
 				System.out.println("Large= "+l);
 	}
 }
+/*
+Output
+Enter the number of rows
+3
+Enter the number of columns
+3
+Enter the elements
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Large= 9
+*/
