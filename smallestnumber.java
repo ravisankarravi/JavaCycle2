@@ -22,3 +22,15 @@ class smallestnumber
 	}
 	
 }
+/*
+Output
+Enter the number of elements
+5
+Enter the elements of the array:
+1
+2
+3
+4
+5
+Smallest Element present in given array:1
+*/
