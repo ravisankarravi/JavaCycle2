@@ -22,3 +22,15 @@ class secondlarge
 		System.out.println("Second largest element of the array is "+a[n-2]);
 	}
 }
+/*
+Output
+Enter number of elements in the array
+5
+Enter array elements
+1
+2
+3
+4
+5
+Second largest element of the array is 4
+*/
