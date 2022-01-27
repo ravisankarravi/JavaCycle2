@@ -23,3 +23,16 @@ class trace
 		System.out.println("Trace of matrix is "+sum);
 	}
 }
+/*
+Output
+Enter number of rows
+2
+Enter number of columns
+2
+Enter array elements:
+1
+2
+3
+4
+Trace of matrix is 5
+*/
