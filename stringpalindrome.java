@@ -24,3 +24,9 @@ class stringpalindrome
 				System.out.println("Palindrome");
 	}
 }
+/*
+Output
+Enter the string
+EEE
+Palindrome
+*/
