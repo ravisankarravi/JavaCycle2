@@ -6,7 +6,7 @@ class replacearray
 		Scanner sc=new Scanner(System.in);
 		int[] a = new int[50];
 		System.out.println("Enter how many elements in the array:");
-		int n,small,sum=0,i,r,ne;
+		int n,i,r,ne;
 		n=sc.nextInt();
 		System.out.println("Enter the array:");
 		for(i=0;i<n;i++)
